@@ -1,0 +1,17 @@
+How to execute the code
+Create an app.py file and copy-paste the #app.py code there.
+Create two folders named templates and a static folder. Those folders should be in the same directory with your app.py file.
+Create three files inside the templates folder, layout.html, home.html, and about.html and copy-paste the code of #layout.html, #home.html, and #about.html in those files, respectively.
+Create a main.css file inside the static folder and copy-paste the code of #main.css there.
+Execute app.py with python app.py
+Visit localhost:5000 on your browser to see the website.
+If you get an error make sure you created the correct directory structure as explained in steps 1 to 4. It should be:
+templates/
+layout.html
+home.html
+about.html
+static/
+main.css
+app.py
+
+Reference: https://pythonhow.com/source-code-simple-website-with-python-html-and-css/
